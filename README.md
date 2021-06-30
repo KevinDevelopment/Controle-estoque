@@ -2,9 +2,13 @@
 
 ### Utilizando design pattern Model, View, Controller
 
-.utilizando banco de dados My Sql
+* Controle de estoque de peças de Informatica. 
 
-.Conexão com o banco utilizando a biblioteca do Java , a JDBC.
+* utilizando banco de dados My Sql
 
-.IDE utilizada NetBeans.
+* Conexão com o banco utilizando a biblioteca do Java , a JDBC.
+
+* IDE utilizada NetBeans.
+
+  
 
